@@ -1,0 +1,15 @@
+total 4
+drwxr-xr-x 1 ouassima ouassima 4096 Apr 19 01:00 .
+drwxr-xr-x 1 ouassima ouassima 4096 Apr 17 14:07 ..
+-rwxr--r-- 1 ouassima ouassima   32 Apr 17 14:11 0-hello_world
+-rwxr--r-- 1 ouassima ouassima   28 Apr 17 14:19 1-confused_smiley
+-rwxr--r-- 1 ouassima ouassima   28 Apr 17 14:21 2-hellofile
+-rwxr--r-- 1 ouassima ouassima   39 Apr 17 14:22 3-twofiles
+-rwxr--r-- 1 ouassima ouassima   29 Apr 17 14:27 4-lastlines
+-rwxr--r-- 1 ouassima ouassima   29 Apr 17 14:28 5-firstlines
+-rwxr--r-- 1 ouassima ouassima   39 Apr 17 14:34 6-third_line
+-rwxr--r-- 1 ouassima ouassima   99 Apr 19 00:48 7-file
+-rwxr--r-- 1 ouassima ouassima   36 Apr 19 00:57 8-cwd_state
+-rw-r--r-- 1 ouassima ouassima   12 Apr 17 14:07 README.md
+-rw-r--r-- 1 ouassima ouassima  744 Apr 17 14:30 iacta
+-rw-r--r-- 1 ouassima ouassima    0 Apr 19 01:00 ls_cwd_content
